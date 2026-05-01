@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# 🚀 Sanad AI | سند الذكي 
+**Smart Financial Management through AI-Powered Receipt Processing**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 🌟 Overview | نبذة عن المشروع
+**Sanad AI** is an innovative financial platform developed for the **Sanad AI Hackathon**. It simplifies expense tracking by automatically extracting data from paper receipts and invoices using advanced AI models, turning physical paper into actionable digital insights.
 
-In the project directory, you can run:
+**سند** هي منصة مالية مبتكرة تم تطويرها لـ **هاكاثون 2026**. تهدف المنصة إلى تبسيط تتبع المصاريف من خلال استخراج البيانات تلقائياً من الفواتير والوصولات الورقية باستخدام نماذج ذكاء اصطناعي متقدمة، محولةً الأوراق التقليدية إلى رؤى رقمية دقيقة.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Key Features | المميزات الرئيسية
+- **📸 AI-Powered OCR:** Instant extraction of date, total, and vendor name with high precision.
+- **📊 Interactive Dashboard:** Visualize your spending patterns with dynamic and clear charts.
+- **🏷️ Smart Categorization:** Automatic sorting of expenses into categories (Food, Health, Travel, etc.).
+- **☁️ Secure Firebase Integration:** Real-time data sync and secure cloud storage for your financial records.
+- **📱 Responsive UI:** A seamless experience across all devices using modern web technologies.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **📸 المسح الذكي:** استخراج فوري للتاريخ، المبلغ الإجمالي، واسم المتجر بدقة عالية.
+- **📊 لوحة تحكم تفاعلية:** تمثيل مرئي لأنماط الإنفاق باستخدام رسوم بيانية ديناميكية.
+- **🏷️ التصنيف التلقائي:** تصنيف ذكي للمصاريف (مطاعم، صحة، سفر، إلخ) باستخدام الذكاء الاصطناعي.
+- **☁️ تكامل سحابي آمن:** مزامنة البيانات لحظياً وتخزينها بأمان عبر Firebase.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack | التقنيات المستخدمة
+| Category | Technology |
+| :--- | :--- |
+| **Frontend** | React.js, Tailwind CSS |
+| **Backend & Database** | Firebase (Firestore & Authentication) |
+| **AI Models** | Hugging Face (Donut Model), Tesseract OCR |
+| **State Management** | React Context API / Zustand |
+| **Icons & UI** | Lucide Icons, Headless UI |
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🚀 Installation & Setup | التشغيل والضبط
+1. **Clone the Repo:**
+   ```bash
+   git clone [https://github.com/abeeraun/Sanad_Ai_Hackthon.git](https://github.com/abeeraun/Sanad_Ai_Hackthon.git)
